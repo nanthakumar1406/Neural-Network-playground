@@ -68,7 +68,8 @@ streamlit run neural_playground.py
   - Decision boundary formation
 
 ## **📜 License**
-MIT License
+MIT 
+https://neural-network-playground.streamlit.app/
 
 ---
 
